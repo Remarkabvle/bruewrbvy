@@ -13,9 +13,8 @@ const Main = () => {
     ))
   return (
     <>
-        <main>
-            {banner}
-        </main>
+  {banner}
+    
     </>
   )
 }
